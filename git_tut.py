@@ -4,4 +4,9 @@ def HelloWorld():
     print("!!")
 
 
+def SayName(name):
+    print(name)
+
+
 HelloWorld()
+SayName("Tofu")
