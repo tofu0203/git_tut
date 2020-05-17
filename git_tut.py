@@ -5,3 +5,5 @@ def HelloWorld():
 
 
 HelloWorld()
+with open("setting_file.txt") as f:
+    print(type(f))
