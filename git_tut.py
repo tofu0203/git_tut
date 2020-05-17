@@ -1,3 +1,7 @@
-print("hello")
-print("world")
-print("!!")
+def HelloWorld():
+    print("hello")
+    print("world")
+    print("!!")
+
+
+HelloWorld()
